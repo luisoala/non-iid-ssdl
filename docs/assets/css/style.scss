@@ -56,7 +56,9 @@
   
   @include large {
     max-width: 64rem;
-    padding: 5rem 6rem;
+    //padding: 5rem 6rem;
+    padding: 2rem 6rem;
+    margin: 0 auto;
   }
 
   @include medium {
