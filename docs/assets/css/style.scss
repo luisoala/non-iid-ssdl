@@ -55,6 +55,7 @@
   background-image: linear-gradient(120deg, #ffffff, #ffffff);//linear-gradient(120deg, $header-bg-color-secondary, $header-bg-color);
   
   @include large {
+    max-width: 64rem;
     padding: 5rem 6rem;
   }
 
@@ -68,7 +69,6 @@
 }
 
 .project-name {
-  max-width: 64rem;
   margin-top: 0;
   margin-bottom: 0.1rem;
 
@@ -86,7 +86,6 @@
 }
 
 .project-tagline {
-  max-width: 64rem;
   margin-bottom: 2rem;
   font-weight: normal;
   opacity: 0.7;
@@ -105,7 +104,6 @@
 }
 
 .project-tagline-2 {
-  max-width: 64rem;
   margin-bottom: 2rem;
   font-weight: normal;
   opacity: 0.7;
