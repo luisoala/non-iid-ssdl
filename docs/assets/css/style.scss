@@ -4,5 +4,9 @@
 @import "{{ site.theme }}";
 //for cayman should import from https://github.com/pages-themes/cayman/blob/master/_sass/jekyll-theme-cayman.scss
 
-$header-heading-color: #000 !default;
+.page-header {
+  color: #000000;
+  text-align: center;
+  background-color: #000000;
+  background-image: linear-gradient(120deg, #000000, #000000);//linear-gradient(120deg, $header-bg-color-secondary, $header-bg-color);
 
