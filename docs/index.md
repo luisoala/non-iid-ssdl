@@ -4,6 +4,8 @@
 # Test
 $$ \newcommand{\bfx}{\mathbf{x}}$$
 
+$$\bfx = \mathbf{0} $$
+
 Some text
 
 ## Test Test
