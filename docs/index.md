@@ -10,6 +10,8 @@ We present the MixMatch approach to out of distribution data (MixMOOD). It entai
 * Markedly, OOD data that is supposedly semantically similar to the OOD labelled data does not always lead to the highest accuracy gain.
 * We propose and evaluate four deep dataset dissimilarity measures (DeDiMs) that can be used to rank unlabelled data according to the expected accuracy gain _prior_ to SSDL training. They are cheap to compute and model-agnostic which make them amenable for practical application.
 * Our test results reveal a strong correlation between the tested DeDiMs and MixMatch accuracy, making them informative for unlabelled dataset selection. This leads to MixMOOD which proposes the usage of tested \gls{DeDiM}s to select the unlabelled dataset for improved MixMatch accuracy.
+![Table 1](https://github.com/luisoala/mixmood/blob/master/docs/imgs/table1.png)
+![Table 2](https://github.com/luisoala/mixmood/blob/master/docs/imgs/table2.png)
 ## Recommendations and Closing Thoughts
 
 # Questions?
