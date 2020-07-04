@@ -67,6 +67,59 @@
   }
 }
 
+.project-name {
+  margin-top: 0;
+  margin-bottom: 0.1rem;
+
+  @include large {
+    font-size: 2rem;
+  }
+
+  @include medium {
+    font-size: 1.75rem;
+  }
+
+  @include small {
+    font-size: 1.5rem;
+  }
+}
+
+.project-tagline {
+  margin-bottom: 2rem;
+  font-weight: normal;
+  opacity: 0.7;
+
+  @include large {
+    font-size: 1.25rem;
+  }
+
+  @include medium {
+    font-size: 1.15rem;
+  }
+
+  @include small {
+    font-size: 1rem;
+  }
+}
+
+.project-tagline-2 {
+  margin-bottom: 2rem;
+  font-weight: normal;
+  opacity: 0.7;
+
+  @include large {
+    font-size: 1rem;
+  }
+
+  @include medium {
+    font-size: 0.9rem;
+  }
+
+  @include small {
+    font-size: 0.75rem;
+  }
+}
+
 .main-content {
   word-wrap: break-word;
 
