@@ -1,16 +1,15 @@
 <!-- mathjax include -->
 {% include mathjax.html %}
 
-<!-- some tex commands -->
+<!-- defining some tex commands that can be used throughout the page-->
 $$ 
   \newcommand{\bfx}{\mathbf{x}}
-  \newcommand{\bfy}{\mathbf{y}}
-  \newcommand{\bfv}{\mathbf{v}}
-  \newcommand{\bfg}{\mathbf{g}}
-  \newcommand{\self}{\text{SSRL}}
-  \newcommand{\super}{\text{SL}}
 $$
+
 # Test
+
+Some text
 
 ## Test Test
 
+Some more text
