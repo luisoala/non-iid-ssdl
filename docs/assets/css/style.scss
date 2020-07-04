@@ -2,3 +2,7 @@
 ---
 
 @import "{{ site.theme }}";
+//for cayman should import from https://github.com/pages-themes/cayman/blob/master/_sass/jekyll-theme-cayman.scss
+
+$header-heading-color: #000 !default;
+
