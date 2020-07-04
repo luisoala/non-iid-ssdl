@@ -53,6 +53,7 @@
   text-align: center;
   background-color: #ffffff;
   background-image: linear-gradient(120deg, #ffffff, #ffffff);//linear-gradient(120deg, $header-bg-color-secondary, $header-bg-color);
+  margin-bottom: -10rem;
   
   @include large {
     max-width: 74rem;
