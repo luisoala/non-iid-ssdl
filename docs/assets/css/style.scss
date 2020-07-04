@@ -127,7 +127,7 @@
   word-wrap: break-word;
 
   :first-child {
-    margin-top: -20rem;
+    margin-top: 0;
   }
 
   @include large {
