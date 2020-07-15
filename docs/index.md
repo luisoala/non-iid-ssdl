@@ -13,7 +13,7 @@ We present the MixMatch approach to out of distribution data (MixMOOD). It entai
 * Our test results reveal a strong correlation between the tested DeDiMs and MixMatch accuracy, making them informative for unlabelled dataset selection. This leads to MixMOOD which proposes the usage of tested \gls{DeDiM}s to select the unlabelled dataset for improved MixMatch accuracy.
 
 <!--![Table 1](https://github.com/luisoala/mixmood/blob/master/docs/imgs/table1.png)-->
-<img src="{{site.url}}/imgs/table1.png" style="display: block; margin: auto;" />
+<!--<img src="{{site.url}}/imgs/table1.png" style="display: block; margin: auto;" />->
 <!--![Table 3](https://github.com/luisoala/mixmood/blob/master/docs/imgs/table3.png)-->
 TODO fix images
 <!--!# Recommendations and Closing Thoughts
