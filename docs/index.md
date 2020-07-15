@@ -15,7 +15,6 @@ We present the MixMatch approach to out of distribution data (MixMOOD). It entai
 <!--![Table 1](https://github.com/luisoala/mixmood/blob/master/docs/imgs/table1.png)-->
 <!--<img src="{{site.url}}/imgs/table1.png" style="display: block; margin: auto;" />->
 <!--![Table 3](https://github.com/luisoala/mixmood/blob/master/docs/imgs/table3.png)-->
-TODO fix images
 <!--!# Recommendations and Closing Thoughts
 TODO: closing thoughs-->
 # Questions?
