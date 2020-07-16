@@ -19,7 +19,7 @@ We present the MixMatch approach to out of distribution data (MixMOOD). It entai
 TODO: closing thoughs-->
 # Data Used
 All data can be found [here](https://drive.google.com/drive/folders/1CFJdMxcX96BGJ2L7cotLAJNKWcpZba7k?usp=sharing). Note that when you use our bash scripts to reproduce experiments the necessary data will automatically be downloaded. Below you can find a short summary of the datasets.
-![useful image](./assets/table1.png) 
+![useful image](./assets/data-table.png) 
 <!-- <img src="{{ site.url }}/docs/assets/table1.png" style="display: block; margin: auto;" /> -->
 # Questions?
 If you have questions regarding the code or the paper or if would like to discuss ideas please open an issue in the [repo](https://github.com/luisoala/mixmood).
