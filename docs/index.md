@@ -17,6 +17,8 @@ We present the MixMatch approach to out of distribution data (MixMOOD). It entai
 <!--![Table 3](https://github.com/luisoala/mixmood/blob/master/docs/imgs/table3.png)-->
 <!--!# Recommendations and Closing Thoughts
 TODO: closing thoughs-->
+# Data Used
+![useful image]({{ site.url }}/assets/table1.png)
 # Questions?
 If you have questions regarding the code or the paper or if would like to discuss ideas please open an issue in the [repo](https://github.com/luisoala/mixmood).
 
