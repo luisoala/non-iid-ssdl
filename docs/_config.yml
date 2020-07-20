@@ -1,3 +1,6 @@
 theme: jekyll-theme-cayman
 title: MixMOOD - A systematic approach to class distribution mismatch in semi-supervised learning using deep dataset dissimilarity measures
 site_url: https://luisoala.github.io/mixmood/
+
+plugins:
+  - jekyll-seo-tag
