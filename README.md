@@ -2,7 +2,7 @@
 [**Paper**](https://arxiv.org/abs/2104.10223) | [**Poster**](https://github.com/luisoala/luisoala.github.io/blob/master/assets/pdf/posters/Poster_ICLR_2021_v2%20(1).pdf)
 
 ## A short introduction
-A common heuristic in semi-supervised deep learning (SSDL) is to select unlabelled data based on a notion of semantic similarity to the labelled data. For example, labelled images of numbers should be paired with unlabelled images of numbers instead of, say, unlabelled images of cars. We refer to this practice as semantic data set matching. In this work, we demonstrate the limits of semantic data set matching. We show that it can sometimes even degrade the performance for a state of the art SSDL algorithm. We present and make available a comprehensive simulation sandbox, called non-IID-SSDL, for stress testing an SSDL algorithm under different degrees of distribution mismatch between the labelled and unlabelled data sets. In addition, we demonstrate that simple density based dissimilarity measures in the feature space of a generic classifier offer a promising and more reliable quantitative matching criterion to select unlabelled data before SSDL training.
+Semi-supervised deep learning (SSDL) is a popular strategy to leverage unlabelled data for machine learning when labelled data is not readily available. In real-world scenarios, different unlabelled data sources are usually available, with varying degrees of distribution mismatch regarding the labelled datasets.  It begs the question which unlabelled dataset to choose for good SSDL outcomes. Oftentimes, semantic heuristics are used to match unlabelled data with labelled data. However, a quantitative and systematic approach to this selection problem would be preferable. In this work, we first test the SSDL MixMatch algorithm under various distribution mismatch configurations to study the impact on SSDL accuracy. Then, we propose a quantitative unlabelled dataset selection heuristic based on dataset dissimilarity measures. These are designed to systematically assess how distribution mismatch between the labelled and unlabelled datasets affects MixMatch performance. We refer to our proposed method as deep dataset dissimilarity measures (DeDiMs), designed to compare labelled and unlabelled datasets. They use the feature space of a generic Wide-ResNet, can be applied prior to learning, are quick to evaluate and model agnostic. The strong correlation in our tests between MixMatch accuracy and the proposed DeDiMs suggests that this approach can be a good fit for quantitatively ranking different unlabelled datasets prior to SSDL training.
 
 ![Poster](https://github.com/luisoala/luisoala.github.io/blob/master/assets/img/repos/noniidssdl/Poster_ICLR_2021_v2%20(1).png)
 ## Data access
@@ -11,14 +11,15 @@ If you wish to reproduce any of the experiments data sets are automatically down
 ![Data](https://github.com/luisoala/luisoala.github.io/blob/master/assets/img/repos/noniidssdl/Screenshot%20from%202021-09-11%2015-32-00.png)
 ## Code
 We provice the experiment script `ood_experiment_at_scale_script.sh` for your convenience where you can select the types of experiments you would like to run.
-## Cite as
-
-    @misc{calderonramirez2021meets,
-      title={More Than Meets The Eye: Semi-supervised Learning Under Non-IID Data}, 
-      author={Saul Calderon-Ramirez and Luis Oala},
-      year={2021},
-      eprint={2104.10223},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG}
-    }
+## Cite as  
+    @ARTICLE{non-iid-ssdl,
+      author    = {Sa{\'{u}}l Calder{\'{o}}n Ram{\'{\i}}rez and Luis Oala and Jordina Torrents{-}Barrena and Shengxiang Yang and Armaghan Moemeni and   
+                    Wojciech Samek and Miguel A. Molina{-}Cabello}
+      journal={IEEE Transactions on Artificial Intelligence}, 
+      title={Dataset Similarity to Assess Semi-supervised Learning Under Distribution Mismatch Between the Labelled and Unlabelled Datasets},  
+      year={2022},
+      volume={tbd},
+      number={tbd},
+      pages={tbd},
+      doi={tbd}}
 **For any questions feel free to open an issue or contact us**
