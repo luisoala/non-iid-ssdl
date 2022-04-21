@@ -1,4 +1,4 @@
-# More Than Meets The Eye: Semi-supervised Learning Under Non-IID Data
+# Dataset Similarity to Assess Semi-supervised Learning Under Distribution Mismatch Between the Labelled and Unlabelled Datasets
 [**Paper**](https://arxiv.org/abs/2104.10223) | [**Poster**](https://github.com/luisoala/luisoala.github.io/blob/master/assets/pdf/posters/Poster_ICLR_2021_v2%20(1).pdf)
 
 ## A short introduction
