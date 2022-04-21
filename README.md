@@ -1,11 +1,12 @@
 # Dataset Similarity to Assess Semi-supervised Learning Under Distribution Mismatch Between the Labelled and Unlabelled Datasets
 
+<center>
+    
 | [Paper](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9078688) | [ICLR 2021 RobustML Poster](https://github.com/luisoala/luisoala.github.io/blob/master/assets/img/repos/noniidssdl/Poster_ICLR_2021_v2%20(1).png) |
 | --- | --- |
-| [IEEE Transactions on Artificial Intelligence](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9078688), [arXiv open access](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9078688) | <img src="https://github.com/luisoala/luisoala.github.io/blob/master/assets/img/repos/noniidssdl/Poster_ICLR_2021_v2%20(1).png" alt="drawing" width="400"/> |
+| - [IEEE Transactions on Artificial Intelligence](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9078688) <br> - [arXiv open access](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9078688) | <img src="https://github.com/luisoala/luisoala.github.io/blob/master/assets/img/repos/noniidssdl/Poster_ICLR_2021_v2%20(1).png" alt="drawing" width="400"/> |
 
-
-[**Paper**](https://arxiv.org/abs/2104.10223) | [**Poster**](https://github.com/luisoala/luisoala.github.io/blob/master/assets/pdf/posters/Poster_ICLR_2021_v2%20(1).pdf)
+</center>
 
 ## A short introduction
 ![Visual abstract](https://github.com/luisoala/luisoala.github.io/blob/master/assets/img/repos/noniidssdl/Screenshot_20220421-124636_Chrome.jpg)
