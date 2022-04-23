@@ -19,14 +19,16 @@ If you wish to reproduce any of the experiments data sets are automatically down
 ## Code
 We provice the experiment script `ood_experiment_at_scale_script.sh` for your convenience where you can select the types of experiments you would like to run.
 ## Cite as  
-    @ARTICLE{non-iid-ssdl,
-      author    = {Sa{\'{u}}l Calder{\'{o}}n Ram{\'{\i}}rez and Luis Oala and Jordina Torrents{-}Barrena and Shengxiang Yang and Armaghan Moemeni and   
-                    Wojciech Samek and Miguel A. Molina{-}Cabello}
-      journal={IEEE Transactions on Artificial Intelligence}, 
-      title={Dataset Similarity to Assess Semi-supervised Learning Under Distribution Mismatch Between the Labelled and Unlabelled Datasets},  
-      year={2022},
-      volume={tbd},
-      number={tbd},
-      pages={tbd},
-      doi={tbd}}
+    @ARTICLE{9762063,  
+    author={Calderon Ramirez, Saul and Oala, Luis and Torrentes-Barrena, 
+        Jordina and Yang, Shengxiang and Elizondo, David and Moemeni, 
+        Armaghan and Colreavy-Donnelly, Simon and Samek, Wojciech and 
+        Molina-Cabello, Miguel and Lopez-Rubio, Ezequiel},
+    journal={IEEE Transactions on Artificial Intelligence},
+    title={Dataset Similarity to Assess Semi-supervised Learning Under Distribution Mismatch Between the Labelled and Unlabelled Datasets},
+    year={2022},
+    volume={},
+    number={},
+    pages={1-1},
+    doi={10.1109/TAI.2022.3168804}}
 **For any questions feel free to open an issue or contact us**
