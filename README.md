@@ -2,9 +2,9 @@
 
 <center>
     
-| [Paper](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9078688) | [ICLR 2021 RobustML Poster](https://github.com/luisoala/luisoala.github.io/blob/master/assets/img/repos/noniidssdl/Poster_ICLR_2021_v2%20(1).png) |
+| [Paper](https://ieeexplore.ieee.org/document/9762063) | [ICLR 2021 RobustML Poster](https://github.com/luisoala/luisoala.github.io/blob/master/assets/img/repos/noniidssdl/Poster_ICLR_2021_v2%20(1).png) |
 | --- | --- |
-| - [IEEE Transactions on Artificial Intelligence](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9078688) <br> - [arXiv open access](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9078688) | <img src="https://github.com/luisoala/luisoala.github.io/blob/master/assets/img/repos/noniidssdl/Poster_ICLR_2021_v2%20(1).png" alt="drawing" width="400"/> |
+| - [IEEE Transactions on Artificial Intelligence](https://ieeexplore.ieee.org/document/9762063) <br> - [arXiv open access](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9078688) | <img src="https://github.com/luisoala/luisoala.github.io/blob/master/assets/img/repos/noniidssdl/Poster_ICLR_2021_v2%20(1).png" alt="drawing" width="400"/> |
 
 </center>
 
